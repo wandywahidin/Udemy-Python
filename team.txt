@@ -1,1 +1,3 @@
 Leader : Wandy
+Straff : none
+Done
